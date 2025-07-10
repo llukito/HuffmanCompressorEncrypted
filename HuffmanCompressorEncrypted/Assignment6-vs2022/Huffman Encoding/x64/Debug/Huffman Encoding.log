@@ -1,0 +1,11 @@
+﻿  HuffmanEncoding.cpp
+  HuffmanEncodingTest.cpp
+C:\Users\User\OneDrive\Desktop\Huffman\Assignment6-vs2022\Huffman Encoding\HuffmanEncoding.cpp(22,15): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Desktop\Huffman\Assignment6-vs2022\Huffman Encoding\HuffmanEncoding.cpp(246,34): warning C4805: '|': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\User\OneDrive\Desktop\Huffman\Assignment6-vs2022\Huffman Encoding\HuffmanEncoding.cpp(254,21): warning C4805: '|': unsafe mix of type 'ext_char' and type 'bool' in operation
+C:\Users\User\OneDrive\Desktop\Huffman\Assignment6-vs2022\Huffman Encoding\HuffmanEncoding.cpp(261,25): warning C4805: '|': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\User\OneDrive\Desktop\Huffman\Assignment6-vs2022\Huffman Encoding\HuffmanEncodingTest.cpp(225,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MemoryDiagnostics.cpp
+  bstream.cpp
+  Generating Code...
+  Huffman Encoding.vcxproj -> C:\Users\User\OneDrive\Desktop\Huffman\Assignment6-vs2022\x64\Debug\Huffman Encoding.exe
